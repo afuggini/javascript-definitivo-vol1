@@ -42,4 +42,16 @@ Aprende y domina a fondo las principales características del lenguaje:
 * [ECMAScript 2015](contenido/16%20-%20ECMAScript%202015.md)
 * [Sobre el Autor](contenido/17%20-%20Sobre%20el%20Autor.md)
 
-Puedes adquirir el libro en formato ebook [en mi sitio web](https://arielfuggini.com/javascript-definitivo-vol1/).
+## Comprar
+
+Este libro se encuentra disponible en formato ebook en:
+* [Mi sitio web](https://arielfuggini.com/javascript-definitivo-vol1/)
+* [Amazon](https://www.amazon.com/dp/B08MY9Q6SC)
+
+---
+
+## Copyright
+
+&copy; 2020 Ariel Fuggini.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Contenido protegido bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>
